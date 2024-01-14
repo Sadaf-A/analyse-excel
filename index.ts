@@ -129,6 +129,10 @@ class Employee {
     /**
      * method to find if the employee has short breaks between shifts
      *
+     * assumption - Time is the time of entering the office, endTime is the time of leaving the office
+     *              and timecardHours is the time the employee has worked
+     *              So, the break duration is calculated as (endTime - startTime) - timecardHours
+     *
      * @param minimumBreak
      * @param maximumBreak
      * @returns
