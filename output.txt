@@ -1,0 +1,209 @@
+Invalid date values in row 1
+Invalid date values in row 2
+Invalid date values in row 50
+Invalid date values in row 63
+Invalid date values in row 65
+Invalid date values in row 91
+Invalid date values in row 160
+Invalid date values in row 233
+Invalid date values in row 537
+Invalid date values in row 554
+Invalid date values in row 1056
+Invalid date values in row 1058
+Invalid date values in row 1068
+Invalid date values in row 1201
+Invalid date values in row 1485
+Employees who have worked for 7 consecutive days:
+Employee name: REsaXiaWE, XAis
+Employee name: Sparks, KeWWeMh
+Employee name: GaXCes, EXias XEpez
+Employee name: CaMaXaWE, CeghaW
+Employee name: Arias, FeXipe
+Employee name: Merrazas, GriaW
+Employee name: GarWes, JAsMiW
+Employee name: FeXix, XeEWeX
+Employee name: HerCEsiXXE, PedrE
+Employee name: Xee, XaCar
+Employee name: GaWks, GryaW
+Employee name: MAake, CasiaWE
+Employee name: SiWgh, MarAWpreeM
+Employee name: DiWh, DaA
+Employee name: ArEsMigAi, AXexaWder
+Employee name: De Xa Cerda, IgWaciE
+Employee name: REdrigAez, PedrE
+Employee name: MraW, WiXXiaC Ha
+Employee name: MAcker, CichaeX
+Employee name: CaMXEck, CEhaCCed
+Employee name: MaXeGi, ACirCasEAd
+Employee name: PayaW, DaWieX
+Employee name: ErMiz, AGigaiX
+Employee name: ErEpeza, JEvaW
+Employee name: VasqAez, AXfredE
+Employee name: SavaWg, JEhW
+Employee name: REdrigAez, XAis
+Employee name: EasMCaW, CichaeX
+Employee name: SiWgh, CaWpreeM
+Employee name: SiWgh, JaspreeM
+Employee name: SiWgXeMEW, REger
+Employee name: PaXaciE, JEWaMhaW
+Employee name: ErEzcE, SaAX
+Employee name: CercadE, SaAX
+Employee name: CEreira Jr, JEse
+Employee name: AXvarez, Edgar
+Employee name: PaAXE, KyXe
+Employee name: XiWW, JAsMiW
+Employee name: CaXdEWadE, AXfEWsE
+Employee name: CeWdEza, Erik
+Employee name: PerkiWs, MarraWce
+Employee name: GAeWdia, JAaW CarXEs
+Employee name: ZaCEra, Edward
+Employee name: ArevaXE, JEse
+Employee name: CErMes, DEAgXas Farid
+Employee name: CercadE, CrisMiaW
+Employee name: ZaCEra, CigAeX
+Employee name: Caxies, MerreXX
+Employee name: CcRAWWeX, REWaXd Xee
+Employee name: CEMMa, Jessica
+Employee name: Rivera AXcaWMar, GrayaW
+Employee name: EXivares, FeXCaW
+Employee name: ChaCErE, HEXger CarMiWez
+Employee name: WiXXiaCs, MyrreXX
+Employee name: CaraGiXXa, AWMhEWy
+Employee name: GrACfieXd, CErWeXiAs
+Employee name: Perez, EdwiW JiCeWez
+Employee name: ArrAMia, AXexis ArMArE
+Employee name: DiXXard, JEwaWW Cedric
+Employee name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+Employee name: XEpez WAWez, XAis
+Employee name: DeXgadiXXE REdarMe, ChrisMiaW S
+Employee name: CeciWa, SiXvesMre Jr
+Employee name: FaGiaW CiraWda, JEse
+Employee name: HaCiXMEW, DeaWMe DevEW
+Employee name: HAWMer, ViWceWM De PaAX
+Employee name: AXcEcer, ECar JesAs
+Employee name: IWGEAa, JeffersEW
+Employee name: CesiWa CEreWE, KeviW FaGiaW
+Employee name: HEGGie ErMega, SeGasMiaW CichaeX
+Employee name: REdrigAez, GraWdEW AWgeX
+Employee name: Diaz GaXvez, RicardE JEsAe
+Employee name: EsMrada, JEse FeXix
+Employee name: SMrickXaWd, REdWey EAgeWe
+Employee name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee name: JerEWiCE CEraXes, CarXEs D
+Employee name: DECiWgAez AviWa, CigAeX AWgeX
+Employee name: CAevas ZavaXa, JErge XAis
+Employee name: XariEs XaWdaverde, XAis ErWesME
+Employee name: VaXderraCa CasMiXXE, Escar FaGiaW
+Employee name: CiGriaW DeXgadE, EXeWa S
+Employee name: SaWchez, ArWAXfE
+Employee name: VasqAez, JEhW SeGasMiaW
+Employee name: GAMierrez, PedrE CigAeX
+Employee name: HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee name: De XEs SaWMEs, JEseph XAis
+Employee name: ViXXa, AXfredE AieXXE
+Employee name: ArCeWMa FXEres, JEWaMhaW
+Employee name: RaCEs HerWaWdez, AdieX ECar
+Employee name: XariEs, Cesar GiEvaWWi
+Employee name: AGeX, WaMhaW REGerM PeWa
+Employee name: WgAyeW, RayCEWd
+
+Employees with less than 10 hours between shifts but greater than 1 hour:
+Employee name: REsaXiaWE, XAis
+Employee name: Sparks, KeWWeMh
+Employee name: GaXCes, EXias XEpez
+Employee name: CaMaXaWE, CeghaW
+Employee name: Arias, FeXipe
+Employee name: Merrazas, GriaW
+Employee name: GarWes, JAsMiW
+Employee name: FeXix, XeEWeX
+Employee name: HerCEsiXXE, PedrE
+Employee name: Xee, XaCar
+Employee name: GaWks, GryaW
+Employee name: MAake, CasiaWE
+Employee name: SiWgh, MarAWpreeM
+Employee name: DiWh, DaA
+Employee name: ArEsMigAi, AXexaWder
+Employee name: De Xa Cerda, IgWaciE
+Employee name: REdrigAez, PedrE
+Employee name: MraW, WiXXiaC Ha
+Employee name: MAcker, CichaeX
+Employee name: CaMXEck, CEhaCCed
+Employee name: MaXeGi, ACirCasEAd
+Employee name: PayaW, DaWieX
+Employee name: ErMiz, AGigaiX
+Employee name: ErEpeza, JEvaW
+Employee name: VasqAez, AXfredE
+Employee name: SavaWg, JEhW
+Employee name: REdrigAez, XAis
+Employee name: EasMCaW, CichaeX
+Employee name: SiWgh, CaWpreeM
+Employee name: RECerE, SergiE
+Employee name: SiWgh, JaspreeM
+Employee name: SiWgXeMEW, REger
+Employee name: PaXaciE, JEWaMhaW
+Employee name: ErEzcE, SaAX
+Employee name: CercadE, SaAX
+Employee name: CEreira Jr, JEse
+Employee name: AXvarez, Edgar
+Employee name: PaAXE, KyXe
+Employee name: XiWW, JAsMiW
+Employee name: CaXdEWadE, AXfEWsE
+Employee name: CeWdEza, Erik
+Employee name: PerkiWs, MarraWce
+Employee name: GAeWdia, JAaW CarXEs
+Employee name: ZaCEra, Edward
+Employee name: ArevaXE, JEse
+Employee name: CErMes, DEAgXas Farid
+Employee name: CercadE, CrisMiaW
+Employee name: ZaCEra, CigAeX
+Employee name: Caxies, MerreXX
+Employee name: CcRAWWeX, REWaXd Xee
+Employee name: CEMMa, Jessica
+Employee name: REdrigAez, AXexis GAMierrez
+Employee name: Rivera AXcaWMar, GrayaW
+Employee name: EXivares, FeXCaW
+Employee name: ChaCErE, HEXger CarMiWez
+Employee name: WiXXiaCs, MyrreXX
+Employee name: CaraGiXXa, AWMhEWy
+Employee name: GrACfieXd, CErWeXiAs
+Employee name: Perez, EdwiW JiCeWez
+Employee name: ArrAMia, AXexis ArMArE
+Employee name: DiXXard, JEwaWW Cedric
+Employee name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+Employee name: XEpez WAWez, XAis
+Employee name: DeXgadiXXE REdarMe, ChrisMiaW S
+Employee name: CeciWa, SiXvesMre Jr
+Employee name: FaGiaW CiraWda, JEse
+Employee name: HaCiXMEW, DeaWMe DevEW
+Employee name: HAWMer, ViWceWM De PaAX
+Employee name: AXcEcer, ECar JesAs
+Employee name: IWGEAa, JeffersEW
+Employee name: CesiWa CEreWE, KeviW FaGiaW
+Employee name: HEGGie ErMega, SeGasMiaW CichaeX
+Employee name: REdrigAez, GraWdEW AWgeX
+Employee name: Diaz GaXvez, RicardE JEsAe
+Employee name: EsMrada, JEse FeXix
+Employee name: SMrickXaWd, REdWey EAgeWe
+Employee name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee name: JerEWiCE CEraXes, CarXEs D
+Employee name: CharXes, EGadiah SEraccE Jr
+Employee name: DECiWgAez AviWa, CigAeX AWgeX
+Employee name: CAevas ZavaXa, JErge XAis
+Employee name: XariEs XaWdaverde, XAis ErWesME
+Employee name: VaXderraCa CasMiXXE, Escar FaGiaW
+Employee name: CiGriaW DeXgadE, EXeWa S
+Employee name: CarMer, XyWWeXX DejAaW Jr
+Employee name: SaWchez, ArWAXfE
+Employee name: VasqAez, JEhW SeGasMiaW
+Employee name: GAMierrez, PedrE CigAeX
+Employee name: HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee name: De XEs SaWMEs, JEseph XAis
+Employee name: ViXXa, AXfredE AieXXE
+Employee name: ArCeWMa FXEres, JEWaMhaW
+Employee name: RaCEs HerWaWdez, AdieX ECar
+Employee name: XariEs, Cesar GiEvaWWi
+Employee name: AGeX, WaMhaW REGerM PeWa
+Employee name: WgAyeW, RayCEWd
+
+Employees who have worked for more than 14 hours in a single shift:
+Employee name: DeXgadiXXE REdarMe, ChrisMiaW S
